@@ -1,0 +1,20 @@
+{
+  "name": "pickupline_api",
+  "version": "1.0.0",
+  "description": "A simple api for getting pickup lines",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pickupline",
+    "api",
+    "pickuplines",
+    "pickuplineapi"
+  ],
+  "author": "Christian B. Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

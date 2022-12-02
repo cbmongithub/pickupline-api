@@ -131,7 +131,6 @@ const pickuplines = [
   'Are you a magician? Because when I look at you, everyone else disappears.',
   "Wow, I've been blinded by your beauty. I'll need your name and number for insurance purposes.",
   "If I were a cat, I'd spend all nine of my lives with you.",
-  "I thought this was a [restaurant/bar/etc.] but it must actually be a museum, because you're a work of art.",
   'What is it like to be the most gorgeous person in this room?',
   "I don't know your name, but I'm sure it's just as beautiful as you are.",
   "Did you do something to my eyes? I can't seem to take them off you.",

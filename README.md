@@ -1,14 +1,18 @@
 ## Pickupline API
 
-A simple api for getting a pickup line
+A simple api for getting a pickup lines
 
 ### Usage
 
-needle('get', 'https://pickupline-api.herokuapp.com/')
-.then((res) => {
-console.log('Got a pickup line!', res.body.pickup_line)
-})
-.catch((err) => {
-console.error(err)
-})
+Just one example using needle with node js
+
+```
+  needle('get', 'https://pickupline-api.herokuapp.com/')
+    .then((res) => {
+      console.log('Got a pickup line!', res.body.pickup_line)
+    })
+    .catch((err) => {
+      console.error(err)
+    })
 }
+```
